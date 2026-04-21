@@ -1,23 +1,20 @@
-# SendScriptWhatsApp-spanish
+# 💬 SendScriptWhatsApp-spanish
 
-Repositorio público del perfil **Carl0gonzalez**, documentado para dejar un punto de entrada más claro sobre su propósito y contenido.
+Repositorio en español orientado a **automatización o scripting relacionado con envío de mensajes por WhatsApp**.
 
----
+## Descripción
 
-## 📌 Objetivo
+Su propósito es concentrar una solución o experimento técnico enfocado en interacción automatizada con WhatsApp o tareas similares.
 
-Entregar una descripción breve y útil del repositorio para facilitar su revisión y mantenimiento.
+## Objetivo
 
-## 📁 Revisión recomendada
+Documentar y conservar un proyecto práctico de scripting con una orientación clara en español.
 
-Clona el repositorio y revisa su estructura interna para identificar el flujo técnico, académico o experimental correspondiente.
+## Uso
 
-```bash
-git clone git@github.com:Carl0gonzalez/SendScriptWhatsApp-spanish.git
-cd SendScriptWhatsApp-spanish
-```
+Revisa la estructura interna y ajusta configuración o dependencias según el flujo implementado.
 
-## 👤 Autor
+## Autor
 
 **Carlo González**
 
